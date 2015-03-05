@@ -1,0 +1,1 @@
+../tools/imgtol.com w a: pvsos.img

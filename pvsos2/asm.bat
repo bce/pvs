@@ -1,0 +1,1 @@
+..\tools\nask.exe helloos.nas pvsos.img
